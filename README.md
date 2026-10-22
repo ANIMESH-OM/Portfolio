@@ -61,6 +61,10 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Description**:This capstone project focuses on the analysis of COVID-19 lockdown measures and their impact on daily cases. With the global pandemic significantly affecting various aspects of society, understanding the effectiveness of lockdown measures is crucial for mitigating the spread of the virus and minimizing socio-economic impacts.
 
 
+### 7:  Predcit the insurance price of individual
+![Footfall Prediction]()
+- **Description**:This Project builds a medical insurance cost prediction model using the insurance dataset of 1,338 records (age, sex, BMI, children, smoker status, region, charges). After exploring distributions and encoding categorical variables, it finds smoking is the strongest cost driver (correlation of about -0.79). A Linear Regression model achieves an R² of roughly 0.75 on training data and 0.74 on test data, showing no overfitting.
+
 ## Core Competencies
 
 **Methodologies**:  
